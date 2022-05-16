@@ -48,6 +48,7 @@ input {
   border-radius: 2%;
 }
 .desc-control {
+  margin-top: 2%;
   display: flex;
   justify-content: space-between;
 }
